@@ -98,7 +98,7 @@ estudiantes.forEach(function(estudiante){
 
     let foto=document.createElement("img")
     foto.classList.add("img-fluid")
-    foto.src="./no2/img/img_est.png"
+    foto.src="./index/img/img_est.png"
 
     
     
